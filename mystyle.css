@@ -1,0 +1,32 @@
+#div1 {
+  border-style: solid;
+}
+#div2 {
+  border-style: groove;
+}
+#OD {
+  background-color: lavender;
+  text-align: center;
+}
+#MD {
+  background-color: lavenderblush;
+  text-align: center;
+}
+#PN {
+  background-color: lavender;
+  text-align: center;
+}
+#TO {
+  background-color: lavenderblush;
+  text-align: center;
+}
+#glove-box {
+  background-color: #98AFC7;
+  text-align: center;
+  color: #0020C2;
+}
+#glove-box-also {
+  background-color: #566D7E;
+  text-align: center;
+  color: #C2A200;
+}
